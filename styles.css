@@ -1,0 +1,61 @@
+.about {
+
+}
+
+.about-main-title {
+    text-align: center;
+    color: darkgoldenrod;
+    text-decoration-line: underline;
+    font-size: 40px;
+}
+.about-main-title:hover, :focus {
+    color:darkred;
+}
+
+.about-car {
+    text-align: center;
+}
+
+.about-car-desc {
+    font-size: large;
+}
+
+.facts {
+    border: 2px solid red;
+}
+
+.facts-title {
+    padding: 16px;
+    color: black;
+    text-decoration-line: underline;
+}
+
+.facts-list {
+    font-size: large;
+}
+
+.facts-item {
+}
+
+.facts-item:hover {
+    color: royalblue;
+}
+
+.reasons {
+    border: 2px solid red;
+    margin-top: 10px;
+}
+
+.reasons-title {
+    padding: 16px;
+    text-decoration-line: underline;
+}
+
+.reasons-list {
+}
+
+.reasons-item {
+}
+.reasons-item:hover {
+    color: royalblue;
+}
